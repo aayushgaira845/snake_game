@@ -130,14 +130,14 @@ java SnakeGame
 
 ## 📸 Gameplay Preview
 
-You can add screenshots here later.
+### Snake Gameplay
+![Snake Gameplay](screenshots/gameplay.png)
 
-Example:
+### Snake Movement
+![Snake Movement](screenshots/movement.png)
 
-Game Window
-Snake Movement
-Game Over Screen
-
+### Game Over Screen
+![Game Over](screenshots/gameover.png)
 
 ---
 
